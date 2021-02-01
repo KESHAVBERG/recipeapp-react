@@ -11,7 +11,7 @@ function App() {
 
 
   const appId = '84571414';
-  const apiKey = '1e818d86599f75f121df60fac11276b9';
+  const apiKey = 'xxxxxxxxxxx';
   useEffect(() => {
     getrecipie();
   }, [qurey])
